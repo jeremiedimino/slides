@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="21cm" height="19cm" viewBox="638 398 403 363" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffd282; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="640" y="400" width="180" height="80" rx="10" ry="10"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="730" y="446.889">
+        <tspan x="730" y="446.889">Monads</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffd282; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="640" y="680" width="177.9" height="80" rx="10" ry="10"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="728.95" y="726.889">
+        <tspan x="728.95" y="726.889">Applicatives</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffd282; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="860" y="540" width="180" height="80" rx="10" ry="10"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="950" y="586.889">
+        <tspan x="950" y="586.889">Selectives</tspan>
+      </text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="729.103" y1="679.258" x2="729.847" y2="480.742"/>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="729.475" y1="580" x2="849.262" y2="580"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="856.762,580 846.762,585 849.262,580 846.762,575 "/>
+    </g>
+  </g>
+</svg>
