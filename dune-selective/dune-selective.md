@@ -36,3 +36,59 @@ Over 100 packages
 ---
 
 ![83% center](./graphs/monorepo.svg)
+
+---
+
+src/dune:
+```scheme
+(library
+ (public_name mylib)
+ (libraries re lwt))
+ 
+(rule (with-stdout-to m.ml (run gen/gen.exe)))
+```
+
+src/gen/dune:
+```scheme
+(executable
+ (name gen)
+ (libraries ppxlib))
+```
+
+---
+
+# Dune's internals
+
+1. Generate rules
+2. Run the build
+
+
+![30% center](./images/construction.png)
+
+---
+
+# The =='a Build.t== selective
+
+```ocaml
+type rule = Action.t t
+```
+
+
+```ocaml
+val dyn_deps : ('a   * Dep.Set.t) t -> 'a t
+val     deps :  'a t * Dep.Set.t    -> 'a t
+```
+
+---
+
+# Selective parsers
+
+jobjo.github.io/2019/05/19/applicative-parsing.html
+
+
+---
+
+# The end
+
+#### ![8%](./images/ocaml.png) discuss.ocaml.org
+#### ![14%](./images/jane-street-logo.png) opensource.janestreet.com
