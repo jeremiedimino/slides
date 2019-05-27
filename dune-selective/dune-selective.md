@@ -8,6 +8,9 @@
 
 ---
 
+&nbsp;
+&nbsp;
+
 ![800% center](./images/jane-street.svg)
 
 ---
@@ -38,7 +41,7 @@ Over 100 packages
 ![83% center](./graphs/monorepo.svg)
 
 ---
-
+&nbsp;
 src/dune:
 ```scheme
 (library
@@ -62,17 +65,20 @@ src/gen/dune:
 1. Generate rules
 2. Run the build
 
-
+&nbsp;
 ![30% center](./images/construction.png)
 
 ---
 
 # The =='a Build.t== selective
 
+&nbsp;
+
 ```ocaml
-type rule = Action.t t
+type rule = Action.t Build.t
 ```
 
+&nbsp;
 
 ```ocaml
 val dyn_deps : ('a   * Dep.Set.t) t -> 'a t
@@ -82,6 +88,8 @@ val     deps :  'a t * Dep.Set.t    -> 'a t
 ---
 
 # Selective parsers
+
+&nbsp;
 
 jobjo.github.io/2019/05/19/applicative-parsing.html
 
