@@ -1,10 +1,14 @@
 <!-- $theme: gaia -->
 
-# Get your money's worth with Selective Functors
+# Dune
+### The OCaml build system
+
+# ![10%](./images/dune-no-text.png)
 
 #### Jeremie Dimino, Jane Street
 ###### ![8%](./images/github.svg) @diml
 ###### ![8%](./images/twitter.svg) @dimenix
+
 
 ---
 
@@ -19,84 +23,63 @@
 
 ![30% center](./images/projects.png)
 
----
-
-![83% center](./graphs/computation-models.svg)
 
 ---
 
-# github.com/janestreet
-
-- ![6%](./images/projects/base.png) base
-- ![6%](./images/projects/core.png) core
-- ![6%](./images/projects/async.png) async
-- ![6%](./images/projects/incr_dom.png) incr_dom
-- ![6%](./images/projects/incremental.png) incrental
-- ...
-
-Over 100 packages
+# What is Dune?
 
 ---
 
-![83% center](./graphs/monorepo.svg)
+![50% center](./graphs/dune-overview-embed.svg)
 
----
+
 &nbsp;
-src/dune:
+
 ```scheme
 (library
  (public_name mylib)
- (libraries re lwt))
+ (libraries base re lwt))
  
+; Custom build rule
 (rule (with-stdout-to m.ml (run gen/gen.exe)))
 ```
 
-src/gen/dune:
-```scheme
-(executable
- (name gen)
- (libraries ppxlib))
-```
 
 ---
 
-# Dune's internals
-
-1. Generate rules
-2. Run the build
-
 &nbsp;
-![30% center](./images/construction.png)
+![60% center](./graphs/dune-inside.svg)
+
 
 ---
 
-# The =='a Build.t== selective
+# Interesting Dune features
 
-&nbsp;
-
-```ocaml
-type rule = Action.t Build.t
-```
-
-&nbsp;
-
-```ocaml
-val dyn_deps : ('a   * Dep.Set.t) t -> 'a t
-val     deps :  'a t * Dep.Set.t    -> 'a t
-```
+- Composability
+- Multiple build contexts
 
 ---
 
-# Selective parsers
+# How does it work?
+
+---
 
 &nbsp;
+&nbsp;
+![60% center](./graphs/rule-prod-exe.svg)
 
-jobjo.github.io/2019/05/19/applicative-parsing.html
+
+---
+
+# Memoisation framework
+
+![60% center](./graphs/memo.svg)
 
 
 ---
 
 # The end
 
+#### ![3%](./images/dune-no-text.png) [dune.build](dune.build)
 #### ![8%](./images/ocaml.png) discuss.ocaml.org
 #### ![14%](./images/jane-street-logo.png) opensource.janestreet.com

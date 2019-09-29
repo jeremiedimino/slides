@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="34cm" height="21cm" viewBox="439 419 662 402" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #c1e4f3; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="440" y="420" width="302.75" height="80" rx="20" ry="20"/>
+      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="591.375" y="468.561">
+        <tspan x="591.375" y="468.561">get_lib("foo/src")</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #c1e4f3; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="460" y="580" width="540.419" height="80" rx="20" ry="20"/>
+      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="730.209" y="628.561">
+        <tspan x="730.209" y="628.561">read_dune_file("foo/src/dune")</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="626.931" y1="500.977" x2="688.273" y2="571.67"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="693.188,577.335 682.858,573.058 688.273,571.67 690.411,566.505 "/>
+    </g>
+    <g>
+      <rect style="fill: #c1e4f3; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="640" y="740" width="460" height="80" rx="20" ry="20"/>
+      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="870" y="788.561">
+        <tspan x="870" y="788.561">read_file("foo/src/dune")</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="766.01" y1="660.977" x2="827.793" y2="731.692"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="832.728,737.34 822.383,733.099 827.793,731.692 829.914,726.519 "/>
+    </g>
+  </g>
+</svg>
