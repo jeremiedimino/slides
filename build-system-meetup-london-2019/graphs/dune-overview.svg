@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="56cm" height="16cm" viewBox="658 599 1107 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #b0ff9d; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1400" y="620" width="364.675" height="280" rx="0" ry="0"/>
+      <text font-size="25.4" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1409" y="672.475">
+        <tspan x="1409" y="672.475">- bin/foo.exe</tspan>
+        <tspan x="1409" y="704.225">- lib/foo/foo.cma</tspan>
+        <tspan x="1409" y="735.975">- lib/foo/foo.cmi</tspan>
+        <tspan x="1409" y="767.725">- ...</tspan>
+        <tspan x="1409" y="799.475">- share/man/man1/foo.1</tspan>
+        <tspan x="1409" y="831.225">- doc/foo/LICENSE.md</tspan>
+        <tspan x="1409" y="862.975">- ...</tspan>
+      </text>
+    </g>
+    <g transform="matrix(1.00754,0,0,0.958012,-65.4271,25.1927)">
+      <ellipse style="fill: #fdd48d; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="918" cy="766" rx="198" ry="166"/>
+      <text font-size="39.5111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="918" y="778.006">
+        <tspan x="918" y="778.006">Project</tspan>
+      </text>
+      <rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x="745.2" y="800.778" width="131.8" height="50.2222" rx="20" ry="20"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="811.1" y="832.778">
+        <tspan x="811.1" y="832.778">src/dune</tspan>
+      </text>
+      <rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x="904.95" y="837.178" width="144.15" height="50.2222" rx="20" ry="20"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="977.025" y="869.178">
+        <tspan x="977.025" y="869.178">test/dune</tspan>
+      </text>
+      <rect style="fill: #ffffff; fill-opacity: 0; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x="851.375" y="652.3" width="201.65" height="50.2222" rx="20" ry="20"/>
+      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="952.2" y="684.3">
+        <tspan x="952.2" y="684.3">example/dune</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ddbee7; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1120" y="640" width="220" height="240" rx="40" ry="40"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1230" y="763.9">
+        <tspan x="1230" y="763.9"></tspan>
+      </text>
+      <image x="1120" y="640" width="220" height="246.289" xlink:href="file:///home/dim/slides/build-system-meetup-london-2019/images/dune.png"/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1060" y1="760" x2="1109.27" y2="760"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1116.77,760 1106.77,765 1109.27,760 1106.77,755 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1340.99" y1="760" x2="1389.27" y2="760"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1396.77,760 1386.77,765 1389.27,760 1386.77,755 "/>
+    </g>
+  </g>
+</svg>
