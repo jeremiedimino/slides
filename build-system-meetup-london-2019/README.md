@@ -1,2 +1,2 @@
-Talk at MF#K in Copenhagen about Selective Applicative Functors in
-Dune on the 28th of May 2019.
+Talk given at the build system meetup organised by Google and
+Cloudfare in October 2019.
