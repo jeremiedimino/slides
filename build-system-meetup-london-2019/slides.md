@@ -26,6 +26,24 @@
 
 ---
 
+# The history of Dune
+
+---
+
+&nbsp;
+
+At the beginning, there was Jenga and the Jenga rules...
+
+&nbsp;
+
+... then a domain specific tool called jbuilder...
+
+&nbsp;
+
+... and finally Dune.
+
+---
+
 # What is Dune?
 
 ---
