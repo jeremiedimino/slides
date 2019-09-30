@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="21cm" height="18cm" viewBox="630 382 409 345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="28cm" height="18cm" viewBox="630 382 541 345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Background">
     <line style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x1="635" y1="723" x2="1035" y2="387"/>
-    <text font-size="33.8661" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="744" y="448">
-      <tspan x="744" y="448">Rule</tspan>
-      <tspan x="744" y="490.333">producer</tspan>
+    <text font-size="33.8667" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="747" y="482">
+      <tspan x="747" y="482">Rule</tspan>
+      <tspan x="747" y="524.333">producer</tspan>
     </text>
-    <text font-size="33.8661" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="924.95" y="630.85">
-      <tspan x="924.95" y="630.85">Rule</tspan>
-      <tspan x="924.95" y="673.183">executor</tspan>
+    <text font-size="33.8667" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="983.95" y="609.85">
+      <tspan x="983.95" y="609.85">Rule executor</tspan>
+      <tspan x="983.95" y="652.183">(scheduler+rebuilder)</tspan>
     </text>
     <g>
       <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 785.718,547.642 A 61.4,61.4 0 0 0 846,606"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="785.759,540.223 789.654,550.703 784.952,547.68 779.712,549.627 "/>
     </g>
     <g>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 830.511,497.811 A 54.7004,54.7004 0 0 1 892.103,556.321"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="891.074,563.647 888.749,552.711 892.96,556.388 898.428,555.226 "/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 830.512,497.812 A 54.7004,54.7004 0 0 1 892.103,556.322"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="891.074,563.648 888.75,552.712 892.961,556.389 898.429,555.227 "/>
     </g>
   </g>
 </svg>

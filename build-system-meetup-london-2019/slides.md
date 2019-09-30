@@ -30,9 +30,11 @@
 
 ---
 
+At the beginning, there was omake, ocamlbuild, ...
+
 &nbsp;
 
-At the beginning, there was Jenga and the Jenga rules...
+... then Jane Street did Jenga and the Jenga rules...
 
 &nbsp;
 
@@ -86,6 +88,23 @@ At the beginning, there was Jenga and the Jenga rules...
 &nbsp;
 ![60% center](./graphs/rule-prod-exe.svg)
 
+---
+
+&nbsp;
+
+```ocaml
+let read_dune_file fname =
+  let contents = read_file fname in
+  parse_dune_file fname
+
+let get_lib dir =
+  let stanzas =
+    read_dune_file (Path.relative dir "dune")
+  in
+  List.find_map stanzas ~f:(function
+    | Library lib -> Some lib.name
+    | _ -> None)
+```
 
 ---
 
