@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="73cm" height="54cm" viewBox="-52 266 1452 1066" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #cdffbb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="266.288" y="522" width="264" height="93" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="398.288" y="572.381">
+        <tspan x="398.288" y="572.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="398.288" y="578.27">
+      <tspan x="398.288" y="578.27">dune language</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffd4bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="254.588" y="720" width="278.7" height="105" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="393.938" y="776.381">
+        <tspan x="393.938" y="776.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="393.938" y="782.27">
+      <tspan x="393.938" y="782.27">Dune build rules</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffbbff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="287.888" y="1225" width="240" height="105" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="407.888" y="1281.38">
+        <tspan x="407.888" y="1281.38"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="407.888" y="1287.27">
+      <tspan x="407.888" y="1287.27">Dune engine</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="397.276" y1="615.964" x2="395.286" y2="709.263"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="395.127,716.762 390.341,706.657 395.286,709.263 400.339,706.871 "/>
+    </g>
+    <g>
+      <rect style="fill: #fff0bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-50.812" y="713" width="240" height="138" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="69.188" y="785.881">
+        <tspan x="69.188" y="785.881"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="69.188" y="756.492">
+      <tspan x="69.188" y="756.492">- stdune</tspan>
+      <tspan x="69.188" y="791.77">- ocaml_config</tspan>
+      <tspan x="69.188" y="827.048">...</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="253.594" y1="776.606" x2="199.918" y2="778.176"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="192.421,778.395 202.271,773.105 199.918,778.176 202.563,783.1 "/>
+    </g>
+    <g>
+      <rect style="fill: #cdffbb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="699.688" y="521" width="381.2" height="93" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="890.288" y="571.381">
+        <tspan x="890.288" y="571.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="890.288" y="577.27">
+      <tspan x="890.288" y="577.27">Jane Street extensions</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffd4bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="701.888" y="717" width="381.8" height="105" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="892.788" y="773.381">
+        <tspan x="892.788" y="773.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="892.788" y="779.27">
+      <tspan x="892.788" y="779.27">Jane Street extensions</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffbbff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="772.288" y="1226" width="240" height="105" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="892.288" y="1282.38">
+        <tspan x="892.288" y="1282.38"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="892.288" y="1288.27">
+      <tspan x="892.288" y="1288.27">Jenga engine</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="890.876" y1="615.004" x2="892.006" y2="706.281"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="892.098,713.78 886.975,703.843 892.006,706.281 896.974,703.719 "/>
+    </g>
+    <g>
+      <rect style="fill: #fff0bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1158.59" y="710" width="240" height="134" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1278.59" y="780.881">
+        <tspan x="1278.59" y="780.881"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1278.59" y="751.492">
+      <tspan x="1278.59" y="751.492">- core</tspan>
+      <tspan x="1278.59" y="786.77">- sexplib</tspan>
+      <tspan x="1278.59" y="822.048">...</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1084.68" y1="773.23" x2="1147.86" y2="774.459"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1155.35,774.604 1145.26,779.409 1147.86,774.459 1145.45,769.411 "/>
+    </g>
+    <g>
+      <rect style="fill: #cdffbb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="265.188" y="278" width="264" height="93" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="397.188" y="328.381">
+        <tspan x="397.188" y="328.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="397.188" y="334.27">
+      <tspan x="397.188" y="334.27">dune files</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="397.402" y1="371.992" x2="398.03" y2="511.272"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="398.064,518.772 393.019,508.794 398.03,511.272 403.019,508.749 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="698.686" y1="567.889" x2="541.031" y2="568.21"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="533.531,568.225 543.521,563.205 541.031,568.21 543.541,573.205 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="700.893" y1="770.654" x2="544.006" y2="771.598"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="536.506,771.643 546.476,766.583 544.006,771.598 546.536,776.582 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffbbff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="295.888" y="939" width="745" height="105" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="668.388" y="995.381">
+        <tspan x="668.388" y="995.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="668.388" y="1001.27">
+      <tspan x="668.388" y="1001.27">Build system API</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="460.984" y1="826" x2="593.732" y2="931.927"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="599.594,936.605 588.659,934.276 593.732,931.927 594.896,926.46 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="838.708" y1="823.001" x2="729.389" y2="931.151"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="724.057,936.426 727.65,925.839 729.389,931.151 734.683,932.948 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="619.663" y1="1044.99" x2="463.169" y2="1216.81"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="458.118,1222.35 461.156,1211.59 463.169,1216.81 468.549,1218.33 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="710.13" y1="1045.01" x2="844.557" y2="1217.32"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="849.17,1223.23 839.077,1218.42 844.557,1217.32 846.962,1212.27 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="295.457,989.323 68.888,988 69.0725,861.342 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="69.0834,853.842 74.0688,863.849 69.0725,861.342 64.0688,863.834 "/>
+    </g>
+    <g>
+      <rect style="fill: #cdffbb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="757.3" y="267" width="264" height="93" rx="20" ry="20"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="889.3" y="317.381">
+        <tspan x="889.3" y="317.381"></tspan>
+      </text>
+    </g>
+    <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="889.3" y="323.27">
+      <tspan x="889.3" y="323.27">jbuild files</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="797.895" y1="360.97" x2="498.334" y2="516.543"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="491.678,519.999 498.248,510.953 498.334,516.543 502.857,519.828 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="889.485" y1="360.939" x2="890.066" y2="510.325"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="890.095,517.825 885.056,507.845 890.066,510.325 895.056,507.806 "/>
+    </g>
+  </g>
+</svg>
