@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="36cm" height="29cm" viewBox="439 239 702 562" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #b7faa7; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="440" y="240" width="220" height="160" rx="20" ry="20"/>
+      <text font-size="28.2669" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="550" y="310.904">
+        <tspan x="550" y="310.904">jbuild</tspan>
+        <tspan x="550" y="346.238">language</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #b7faa7; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="920" y="240" width="218.9" height="160" rx="20" ry="20"/>
+      <text font-size="28.2669" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1029.45" y="310.904">
+        <tspan x="1029.45" y="310.904">dune</tspan>
+        <tspan x="1029.45" y="346.238">language</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #faf79e; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="440" y="480" width="700" height="80" rx="20" ry="20"/>
+      <text font-size="28.2669" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="528.571">
+        <tspan x="790" y="528.571">shared build API</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #f2aba6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="440" y="640" width="220" height="160" rx="20" ry="20"/>
+      <text font-size="28.2669" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="550" y="710.904">
+        <tspan x="550" y="710.904">jenga</tspan>
+        <tspan x="550" y="746.238">backend</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #f2aba6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="920" y="640" width="220" height="160" rx="20" ry="20"/>
+      <text font-size="28.2669" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1030" y="710.904">
+        <tspan x="1030" y="710.904">dune</tspan>
+        <tspan x="1030" y="746.238">backend</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="550" y1="400" x2="699.495" y2="474.747"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="706.203,478.102 695.023,478.102 699.495,474.747 699.495,469.157 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1029.45" y1="400" x2="880.314" y2="474.739"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="873.609,478.1 880.308,469.149 880.314,474.739 884.789,478.089 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="647.178" y1="639.019" x2="733.536" y2="567.053"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="739.298,562.252 734.817,572.495 733.536,567.053 728.415,564.813 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="932.822" y1="639.019" x2="846.464" y2="567.053"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="840.702,562.252 851.585,564.813 846.464,567.053 845.183,572.495 "/>
+    </g>
+  </g>
+</svg>
